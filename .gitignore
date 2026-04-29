@@ -1,0 +1,6 @@
+.codex
+build/*
+compile_commands.json
+configs/*
+data/*
+compile_commands.json
