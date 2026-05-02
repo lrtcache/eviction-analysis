@@ -1,5 +1,3 @@
-# bufpool-eviction
-
 Small C++ experiments for comparing buffer-pool eviction policies.
 
 The repo currently contains:
